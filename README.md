@@ -38,17 +38,3 @@ Accuracy: 0.87
 ## 📊 Dashboard
 
 ![Dashboard](ChurnCustomersDashboard.png)
-
----
-📜 License
-
-This project is licensed under the MIT License.
-
----
-
-## 🙌 Acknowledgements
-
-- [Scikit-learn](https://scikit-learn.org/)
-- [Pandas](https://pandas.pydata.org/)
-- [Matplotlib](https://matplotlib.org/)
-
